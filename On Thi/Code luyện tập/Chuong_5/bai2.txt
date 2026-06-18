@@ -1,0 +1,9 @@
+The	det	cat
+agile	amod	cat
+grey	amod	cat
+cat	nsubj	leaps
+leaps	ROOT	leaps
+above	prep	leaps
+the	det	mouse
+sleeping	compound	mouse
+mouse	pobj	above

@@ -1,0 +1,6 @@
+agile	 84
+grey	 84
+cat	 92
+leaps	 100
+sleeping	 100
+mouse	 92
